@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Finley Kildeere",
+    "id": "1",
+    "role": "protagonist",
+    "age": 45,
+    "story": "Smoke & Mirrors",
+    "storyComplete": false,
+    "connects": {
+      "coworkers": ["Shyla", "Neisha", "Palmer"],
+      "family": null,
+      "loveInterest": "Michelle Kincaide"
+    },
+    "series": "F/F Quartet"
+  },
+  {
+    "name": "Michelle Kincaide",
+    "id": "2",
+    "role": "love interest",
+    "age": 28,
+    "story": "Smoke & Mirrors",
+    "storyComplete": false,
+    "connects": {
+      "coworkers": ["Finley", "Sam", "Palmer"],
+      "family": null,
+      "loveInterest": "Finley Kildeere"
+    },
+    "series": "F/F Quartet"
+  }
+]
